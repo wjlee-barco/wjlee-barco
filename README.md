@@ -5,8 +5,8 @@
 
 ## Latest Posts for Life
 
-<!-- WP-POST-LIST:START -->
-<!-- WP-POST-LIST:END -->
+<!-- WP:START -->
+<!-- WP:END -->
 
 
 ## References
