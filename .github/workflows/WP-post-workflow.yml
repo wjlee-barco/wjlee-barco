@@ -14,4 +14,4 @@ jobs:
         with:
           comment_tag_name: "WP"
           commit_message: "Updated readme with the latest WP data"
-          feed_list: "https://wenchiehlee.wordpress.com/"
+          feed_list: "https://wenchiehlee.wordpress.com/feed"
