@@ -15,3 +15,6 @@ jobs:
           comment_tag_name: "WP"
           commit_message: "Updated readme with the latest WP data"
           feed_list: "https://wenchiehlee.wordpress.com/feed"
+          max_post_count: 20
+          template: "$newline* `$date` - [$title]($url)"
+          date_format: "yyyy-mm-dd"
