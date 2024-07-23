@@ -1,6 +1,7 @@
 ## Latest Posts for Works
 
 <!-- BLOG-POST-LIST:START -->
+
 * `2024-07-17` - [Blog with Jekyll and Github pages](https://wenchiehlee.github.io/Chatgpt-with-GoogleSheet-via-Google-app-script/)
 * `2024-07-15` - [Raspberry PI with github actions runner](https://wenchiehlee.github.io/Raspberry-PI-with-github-action-runner/)
 * `2024-07-12` - [ChatGPT with GoogleSheet via Google app script](https://wenchiehlee.github.io/Blog-with-Jekyll-and-Github-pages/)
