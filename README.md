@@ -1,9 +1,9 @@
 ## Latest Posts for Works
 
 <!-- BLOG-POST-LIST:START -->
-* `2024-07-17` - [Blog with Jekyll and Github pages](https://wenchiehlee.github.io/Chatgpt-with-GoogleSheet-via-Google-app-script/)
+* `2024-07-17` - [ChatGPT with GoogleSheet via Google app script](https://wenchiehlee.github.io/Chatgpt-with-GoogleSheet-via-Google-app-script/)
 * `2024-07-15` - [Raspberry PI with github actions runner](https://wenchiehlee.github.io/Raspberry-PI-with-github-action-runner/)
-* `2024-07-12` - [ChatGPT with GoogleSheet via Google app script](https://wenchiehlee.github.io/Blog-with-Jekyll-and-Github-pages/)
+* `2024-07-12` - [Blog with Jekyll and Github pages](https://wenchiehlee.github.io/Blog-with-Jekyll-and-Github-pages/)
 * `2023-09-20` - [Data visualization](https://wenchiehlee.github.io/Data-visualization/)
 * `2023-09-17` - [Plantuml-styler](https://wenchiehlee.github.io/Plantuml-beatifier/)
 * `2023-09-16` - [Gitlab-runner in Synology NAS](https://wenchiehlee.github.io/Gitlab-runner-in-Synology-NAS/)
