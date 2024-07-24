@@ -1,6 +1,7 @@
 ## Latest Posts for Works
 
 <!-- BLOG-POST-LIST:START -->
+* `2024-07-24` - [Data centric AI](https://wenchiehlee.github.io/Data-centric-AI/)
 * `2024-07-17` - [ChatGPT with GoogleSheet via Google app script](https://wenchiehlee.github.io/Chatgpt-with-GoogleSheet-via-Google-app-script/)
 * `2024-07-15` - [Raspberry PI with github actions runner](https://wenchiehlee.github.io/Raspberry-PI-with-github-action-runner/)
 * `2024-07-12` - [Blog with Jekyll and Github pages](https://wenchiehlee.github.io/Blog-with-Jekyll-and-Github-pages/)
@@ -9,8 +10,7 @@
 * `2023-09-16` - [Gitlab-runner in Synology NAS](https://wenchiehlee.github.io/Gitlab-runner-in-Synology-NAS/)
 * `2021-07-29` - [AIOT data collection- Part 4- Alert](https://wenchiehlee.github.io/AIOT-data-collection-Part-4/)
 * `2021-06-20` - [AIOT data collection- Part 3- Web Scraper](https://wenchiehlee.github.io/AIOT-data-collection-Part-3/)
-* `2021-04-27` - [AIOT data collection- Part 2](https://wenchiehlee.github.io/AIOT-data-collection-Part-2/)
-* `2021-04-10` - [AIOT data collection](https://wenchiehlee.github.io/AIOT-data-collection/)<!-- BLOG-POST-LIST:END -->
+* `2021-04-27` - [AIOT data collection- Part 2](https://wenchiehlee.github.io/AIOT-data-collection-Part-2/)<!-- BLOG-POST-LIST:END -->
 
 ## Latest Posts for Life
 
