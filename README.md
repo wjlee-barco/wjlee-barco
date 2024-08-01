@@ -10,7 +10,7 @@
 * `2023-09-16` - [Gitlab-runner in Synology NAS](https://wenchiehlee.github.io/Gitlab-runner-in-Synology-NAS/)
 * `2021-07-29` - [AIOT data collection- Part 4- Alert](https://wenchiehlee.github.io/AIOT-data-collection-Part-4/)
 * `2021-06-20` - [AIOT data collection- Part 3- Web Scraper](https://wenchiehlee.github.io/AIOT-data-collection-Part-3/)
-* `2021-04-27` - [AIOT data collection- Part 2](https://wenchiehlee.github.io/AIOT-data-collection-Part-2/)<!-- BLOG-POST-LIST:END -->
+* `2021-06-18` - [Biz-Needs-Tech-Alignment](https://wenchiehlee.github.io/Biz-Needs-Tech-Alignment/)<!-- BLOG-POST-LIST:END -->
 
 ## Latest Posts for Life
 
